@@ -1,0 +1,19 @@
+{
+    "news": {
+        "title": "资讯",
+        "datas": [
+            {
+                "title": "BBC",
+                "url": "https://www.bbc.com/",
+                "desc": "BBC 中文"
+            },
+            {
+                "title": "BBC 中文",
+                "url": "https://www.bbc.com/zhongwen",
+                "desc": "BBC 中文"
+            }
+    ]},
+    "community": {
+
+    }
+}
